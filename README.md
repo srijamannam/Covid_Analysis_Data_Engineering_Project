@@ -2,15 +2,15 @@
 
 This project focused on implementing a comprehensive ETL (Extract, Transform, Load) process using AWS cloud services. 
 
-Key project highlights include data ingestion and organization in S3 buckets
+**Key project highlights:**   1) data ingestion and organization in S3 buckets
 
-                              automated data schema generation with AWS Glue 
+                              2) automated data schema generation with AWS Glue 
+                             
+                              3) data modeling and visualization
                               
-                              data modeling and visualization
+                              4) Python-based ETL processes
                               
-                              Python-based ETL processes
-                              
-                              seamless integration with Amazon Redshift
+                              5) seamless integration with Amazon Redshift
                               
 
 
